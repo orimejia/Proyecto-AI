@@ -12,7 +12,10 @@ Los datos del proyecto vienen de [La competencia en Kaggle March Machine Learnin
 
 ## Como hacer los datos disponibles en el Notebook 
 
-Se ingresa una copia de los datos en archivo CSV en Githut y posteriormente se ultiliza este archivo RAW en colab, de tal forma que los datos son disponibles para las personas que decidan ejecutar el Notebook
+Se carga el archivo CSV a GitHub, en nuestro caso se llama RegularSeasonDetailedResults y posteriormente se ultiliza el URL este archivo en RAW en colab, de tal forma que los datos son disponibles para las personas que decidan ejecutar el Notebook.
+
+## Videos de las entregas
+
 
 
 
