@@ -3,7 +3,6 @@
 ## Miembros del grupo
 
 * Oriana Mejía Cardona, C.C 135879334, Ingeniería mecánica
-* Andres Ramírez Aristizabal, C.C 1001366350, Ingeniería de sistemas
 
 
 ## Datos
@@ -12,7 +11,7 @@ Los datos del proyecto vienen de [La competencia en Kaggle March Machine Learnin
 
 ## Como hacer los datos disponibles en el Notebook 
 
-Se carga el archivo CSV a GitHub, en nuestro caso se llama RegularSeasonDetailedResults y posteriormente se ultiliza el URL este archivo en RAW en colab, de tal forma que los datos son disponibles para las personas que decidan ejecutar el Notebook.
+Se carga el archivo CSV a GitHub, en nuestro caso se llama RegularSeasonDetailedResults y RegularSeasonDetailedResults_processed y posteriormente se ultiliza el URL de estos archivo en RAW en colab, de tal forma que los datos son disponibles para las personas que decidan ejecutar el Notebook.
 
 ## Videos de las entregas
 
