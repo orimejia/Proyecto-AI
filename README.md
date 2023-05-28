@@ -6,7 +6,7 @@
 
 * Hernán Javier Aguilar Cruz, C.C 1006503110, Ingeniería de sistemas.
 * Jhonier Raúl Jiménez Acevedo, C.C 1020446958 Ingeniería de sistemas.
-* Oriana Mejía Cardona, C.C 135879334, Ingeniería mecánica.
+* Oriana Mejía Cardona, C.C 1035879334, Ingeniería mecánica.
 
 ## Datos 
 
@@ -31,7 +31,7 @@ Los archivos están cargados originalmente en el GitHub de Hernán pero para ten
 
 ### Miembros del grupo
 
-* Oriana Mejía Cardona, C.C 135879334, Ingeniería mecánica
+* Oriana Mejía Cardona, C.C 1035879334, Ingeniería mecánica
 
 ### Datos
 
