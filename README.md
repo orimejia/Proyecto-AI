@@ -20,11 +20,13 @@ Los archivos csv a utilizar:
 
     data.csv: Dataset original de la competencia de Kaggle.
     simulated_data.csv: Dataset originado luego de la simulación.
-    processed_data.csv: Dataset originado luego del procesado de los datos.
+    processed_data.csv: Dataset originado luego del preprocesado de los datos.
 
-Los archivos están cargados originalmente en el GitHub de Hernán pero para tener la referencia cada integrante del grupo los cargará individualmente.
+Los archivos están cargados originalmente en el GitHub de Hernán pero para tener la referencia cada integrante del grupo los cargará individualmente a su GitHub.
 
 ## Videos de las entregas
+
+[Entrega final - Video](https://www.youtube.com/watch?v=JFJtnl_VvGU)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## PROYECTO NCAA 's Clairvoyance
